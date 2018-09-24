@@ -12,7 +12,7 @@ class j6
 		}
 		else
 		{
-			System.out.println(num +"invalid");
+			System.out.println("invalid");
 		}
 	}
 }
